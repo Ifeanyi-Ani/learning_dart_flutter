@@ -8,7 +8,14 @@ I started learning Dart and Flutter in February 2025 to enhance my skills in mob
 
 ### Current Progress
 
-- **Lesson One**: [Content to be added]
+- **Lesson One**:
+
+  - [variable type](./lessonOne/types_variable.dart)
+  - [List/Array in dart]("./lessonOne/List.dart")
+  - [Map/Object in dart]("./lessonOne/Map.dart")
+  - [Set in dart]("./lessonOne/Set.dart")
+
+- Lesson Two: [inprogress]
 
 ### Planned Curriculum
 
